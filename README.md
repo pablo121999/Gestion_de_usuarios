@@ -1,6 +1,7 @@
 # Sistema de Gestión de Usuarios
 
 Aplicación de escritorio desarrollada en **Java (Swing)** que permite administrar usuarios con almacenamiento en base de datos **MySQL**, incluyendo fotografía.
+
 ![img.png](img.png)
 ---
 
