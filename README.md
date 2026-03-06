@@ -1,29 +1,54 @@
 # Sistema de Gestión de Usuarios
 
-Aplicación de escritorio desarrollada en **Java (Swing)** que permite administrar usuarios con almacenamiento en base de datos **MySQL**, incluyendo fotografía.
+Aplicación de escritorio desarrollada en **Java (Swing)** que permite administrar usuarios con almacenamiento en base de datos **MySQL**, incluyendo fotografía de cada usuario.
 
-![img.png](img.png)
+![Vista de la aplicación](img.png)
+
+---
+
+## 📌 Descripción
+
+El **Sistema de Gestión de Usuarios** es una aplicación que permite registrar, consultar, actualizar y eliminar usuarios dentro de una base de datos.  
+Además, cada usuario puede tener asociada una **fotografía**, lo que facilita su identificación dentro del sistema.
+
+La aplicación cuenta con una interfaz gráfica desarrollada con **Java Swing**, permitiendo una interacción sencilla e intuitiva para el usuario.
+
 ---
 
 ## 🎯 Objetivo
 
-Desarrollar una aplicación para la gestión de usuarios
+Desarrollar una aplicación de escritorio que permita la **gestión eficiente de usuarios**, integrando:
+
+- Interfaz gráfica amigable
+- Conexión con base de datos
+- Almacenamiento de fotografías
+- Operaciones CRUD completas
 
 ---
 
-## 🚀 Funcionalidades
+## ⚙️ Tecnologías utilizadas
 
-- ✅ Crear usuarios
-- ✅ Editar usuarios
-- ✅ Eliminar usuarios
-- ✅ Listar usuarios en tabla
-- ✅ Guardar fotografía en base de datos
-- ✅ Mostrar miniatura de fotografía en la tabla
-- ✅ Interfaz gráfica amigable
-- ✅ Manejo de excepciones
+- **Java** – Lenguaje de programación principal
+- **Java Swing** – Desarrollo de la interfaz gráfica
+- **MySQL** – Base de datos
+- **JDBC** – Conexión entre Java y MySQL
+- **IntelliJ** – Entorno de desarrollo
+- **Patrón DAO** 
 
 ---
 
+## ✨ Funcionalidades
+
+El sistema permite realizar las siguientes operaciones:
+
+- ➕ **Registrar usuarios**
+- 🔍 **Consultar usuarios**
+- ✏️ **Actualizar información**
+- ❌ **Eliminar usuarios**
+- 📷 **Agregar fotografía al usuario**
+- 📋 **Visualizar lista de usuarios registrados**
+
+---
 ## 🛠 Tecnologías Utilizadas
 
 - Java 17+
